@@ -1,0 +1,31 @@
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# direnv
+.envrc
+.direnv/
+
+# dotenv
+.env
+
+# vscode
+.vscode/
+
+# emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# vim
+Session.vim
+Sessionx.vim
+
+# tmp
+/tmp/
