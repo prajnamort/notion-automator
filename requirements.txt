@@ -1,2 +1,2 @@
-ipython>=8.15.0
+ipython>=7.16.3
 notion-client @ git+https://github.com/ramnes/notion-sdk-py@1a8bdd48b08e44ff69a6a81a14d9ae43a7948ee5
