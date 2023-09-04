@@ -1,4 +1,4 @@
-Automation for Notion (private use)
+# Notion Automation (for Elves)
 
 
 ## Usage
